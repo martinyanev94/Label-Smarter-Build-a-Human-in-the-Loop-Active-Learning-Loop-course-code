@@ -1,0 +1,2 @@
+# Label-Smarter-Build-a-Human-in-the-Loop-Active-Learning-Loop-course-code
+Learn human-in-the-loop active learning by building a practical image-classification workflow that selects uncertain examples for annotation and feeds reviewed labels back into training. This focused course shows how uncertainty sampling and human quality review work together to make labeling more targeted and reliable. Across two lessons, you will
